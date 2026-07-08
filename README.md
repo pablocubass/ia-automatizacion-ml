@@ -181,3 +181,9 @@ Algunas mejoras posibles serían:
 * crear una interfaz web sencilla;
 * subir el proyecto a GitHub;
 * desplegar una demo online.
+
+## Autor
+
+Proyecto desarrollado por Pablo Cubas como primera práctica de Machine Learning e Inteligencia Artificial aplicada.
+
+Este proyecto forma parte de una ruta personal de aprendizaje orientada a IA, automatización y desarrollo profesional como futuro ingeniero informático.
