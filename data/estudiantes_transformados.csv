@@ -1,0 +1,8 @@
+nombre,horas_estudio,nota,aprobado,nota_redondeada,rendimiento
+Ana,2,6.5,True,6.5,medio
+Luis,5,8.0,True,8.0,alto
+Marta,3,7.0,True,7.0,medio
+Pablo,6,9.0,True,9.0,alto
+Lucia,4,7.5,True,7.5,medio
+Carlos,1,5.0,True,5.0,medio
+Elena,7,9.5,True,9.5,alto
